@@ -60,7 +60,7 @@ function About() {
           <Toolstack data-aos="fade-up" />
         </div>
 
-        <Github />
+        
       </Container>
       <ScrollToTop />
     </Container>

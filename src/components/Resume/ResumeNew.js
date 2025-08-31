@@ -10,7 +10,7 @@ import ScrollToTop from "../ScrollToTop/ScrollToTop";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "https://raw.githubusercontent.com/Sanduni-Upeksha-Ekanayake/My-Portfolio-main/tree/main/src/Assets/resume.pdf";
+  "https://raw.githubusercontent.com/Sanduni-Upeksha-Ekanayake/My-Portfolio-main/blob/main/src/Assets/sanduni.pdf";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
